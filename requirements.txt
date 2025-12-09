@@ -17,7 +17,7 @@ joblib>=1.0.0
 
 # Jupyter Notebook
 jupyter>=1.0.0
-notebook>=6.4.0
+notebook>=6.4.12
 ipykernel>=6.0.0
 
 # Optional: For production deployment
