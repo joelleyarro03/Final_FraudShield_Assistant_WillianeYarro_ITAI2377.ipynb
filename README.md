@@ -1,7 +1,5 @@
 # Final_FraudShield_Assistant_WillianeYarro_ITAI2377.ipynb
-Credit Card Fraud
-Here is a clean, professional **README.md** for your FraudShield AI Assistant project.
-You can paste this directly into GitHub.
+Credit Card FrauShield
 
 ---
 
@@ -193,5 +191,3 @@ If you want, I can also generate:
 ✔ A **shorter README**
 ✔ A **more professional GitHub-style README** with badges
 ✔ A **README with images and diagrams**
-
-Just tell me!
